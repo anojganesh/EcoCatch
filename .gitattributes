@@ -1,0 +1,4 @@
+backend/Fisheries_Management_Zone.geojson filter=lfs diff=lfs merge=lfs -text
+backend/map.html filter=lfs diff=lfs merge=lfs -text
+*.html filter=lfs diff=lfs merge=lfs -text
+*.geojson filter=lfs diff=lfs merge=lfs -text
