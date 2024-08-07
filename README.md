@@ -5,7 +5,7 @@ See more about EcoCatch here:</br>
 https://www.figma.com/slides/lQvTDyqeSYEsdoBU51PlsC/EcoCatch-Pitch?node-id=1-424 
 
 # Collaborators:
-@abhijnam
-@ShreyaDasoju
-@KaleelMH
-@anojganesh
+@abhijnam</br>
+@ShreyaDasoju</br>
+@KaleelMH</br>
+@anojganesh</br>
