@@ -10,7 +10,7 @@ https://www.figma.com/slides/lQvTDyqeSYEsdoBU51PlsC/EcoCatch-Pitch?node-id=1-424
 Data Sources:<br>
 
 [Fish ON-Line](https://www.lioapplications.lrc.gov.on.ca/fishonline/Index.html?viewer=FishONLine.FishONLine&locale=en-CA)<br>
-[Fish ON-Line](https://www.lioapplications.lrc.gov.on.ca/fishonline/Index.html?viewer=FishONLine.FishONLine&locale=en-CA)<br>
+[Ontario FMZs](https://www.ontario.ca/page/fisheries-management-zones)<br>
 
 # Collaborators:
 
