@@ -5,6 +5,8 @@ Useful tool to locate fishing sites within Ontario, and easily keep up to date w
 See more about EcoCatch here:</br>
 https://www.figma.com/slides/lQvTDyqeSYEsdoBU51PlsC/EcoCatch-Pitch?node-id=1-424
 
+![map](./EcoCatch.png)
+
 # Collaborators:
 
 @abhijnam</br>
